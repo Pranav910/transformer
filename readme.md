@@ -2,7 +2,7 @@
 
 ## Overview : 
 
-This repository contains the implementation of the Transformer architecture inspired from the 'Attention is All You Need Paper' from scratch using the pytorch library. This model was traine d on the Game of Thrones screenplay dataset with the corpus containing total of 50000 words, for the task of next word prediction.
+This repository contains the implementation of the Transformer architecture inspired from the 'Attention is All You Need Paper' from scratch using the pytorch library. This model was trained on the Game of Thrones screenplay dataset with the corpus containing total of 50000 words, for the task of next word prediction.
 
 ## Model Details :
 
